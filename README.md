@@ -4,3 +4,5 @@
 4.Implemented some fontAwesome brands icon.  
 5.Responsive by using bootstrap.  
 6.Destructuring.  
+
+And last deployed on netlify here is the link below https://8team-stricker.netlify.app/
