@@ -11,7 +11,7 @@ const ShowDetails = () => {
     fetch(url)
       .then((res) => res.json())
       .then((data) => setTeam(data.teams.slice(0, 1)));
-  }, []);
+  }, [name]);
   return (
     <div>
       {team.map((teamInfo) => (
